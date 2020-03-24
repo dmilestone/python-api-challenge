@@ -1,11 +1,10 @@
 # Python API Challenge - What's the Weather Like?
 
-## Use Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
-
-Part I - WeatherPy:
+## Use Python requests, APIs, and JSON traversals to per form the following:
+## Part I - WeatherPy:
 Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using.
 
-Part II - VacationPy:
+## Part II - VacationPy:
 Use Jupyter gmaps and the Google Places API to plan future vacations based on weather data.
 
 ## Breakdown of Tasks
@@ -34,6 +33,11 @@ Use Jupyter gmaps and the Google Places API to plan future vacations based on we
 4. Perform Google API to find the first hotel for each city located within 5000 meters of your coordinates.
 5. Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
+## Output
+
+![HeatMap](VacationPy/vacationheatmap.png)
+
+![HotelHeatMap](VacationPy/vacationheatmapwithhotels.png)
 
 ## Disclaimer 
 
